@@ -18,7 +18,7 @@ There is 15 fields in total. Pick a field which will uncover a number, 3 of the 
 
 3. Compile with g++ (run in fieldMinigame directory)
 
-`g++ src/main.cpp -o main -O2 -Wall -Wextra -std=c++17 -Wpedantic`
+`$ g++ src/main.cpp -o main -O2 -Wall -Wextra -std=c++17 -Wpedantic`
 
 4. Run the binary
 
